@@ -1,2 +1,10 @@
-.ipynb_checkpoints/
-.emacs.desktop
+# system
+*.ipynb_checkpoints/
+*.emacs.desktop
+*settings.json
+
+# data files
+*.index
+
+# image outputs from ggplot
+*.png
